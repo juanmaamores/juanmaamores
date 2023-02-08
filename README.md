@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanmaamores
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on my cmd game.
+- 🌱 I’m currently learning C++ and Java.
+- 💞️ I’m looking to collaborate on my java game.
 - 📫 How to reach me amoresdeveloper@gmail.com
 
 <!---
